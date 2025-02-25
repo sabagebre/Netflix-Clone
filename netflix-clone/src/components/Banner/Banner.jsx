@@ -1,4 +1,4 @@
-// import React from 'react'
+2// import React from 'react'
 
 import { useEffect, useState } from "react";
 import axios from "../../Utils/axios";
@@ -63,3 +63,4 @@ const Banner = () => {
 };
 
 export default Banner;
+
